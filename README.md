@@ -11,7 +11,7 @@ This project is designed to be beginner-friendly and is ideal for students explo
 
 
 
-**Key Features****
+#**Key Features**
 
 Trains a custom GAN model on the CIFAR-10 dataset
 
