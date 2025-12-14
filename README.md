@@ -9,9 +9,9 @@ The project implements a custom GAN architecture consisting of a Generator and a
 This project is designed to be beginner-friendly and is ideal for students exploring deep learning, generative models, and image synthesis.
 
 
-#**
-**
-   Key Features****
+
+
+**Key Features****
 
 Trains a custom GAN model on the CIFAR-10 dataset
 
