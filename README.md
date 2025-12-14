@@ -9,7 +9,7 @@ The project implements a custom GAN architecture consisting of a Generator and a
 This project is designed to be beginner-friendly and is ideal for students exploring deep learning, generative models, and image synthesis.
 
 
-**
+#**
 **
    Key Features****
 
@@ -23,7 +23,7 @@ Supports execution using Jupyter Notebooks and Google Colab
 
 Beginner-friendly implementation with clear training workflow
 
-**Use Cases**
+#**Use Cases**
 
 Data Augmentation
 Generate synthetic images to enhance small or imbalanced datasets.
@@ -36,7 +36,7 @@ Create mock images for testing computer vision pipelines or UI concepts.
 
 Generative Art & Creativity
 Explore creative patterns and variations through latent space manipulation.
-**
+#**
 Usage**
 **Setup**
 
@@ -56,7 +56,7 @@ Matplotlib
 (Optional) Open the notebook directly in Google Colab for GPU support.
 
 
-**Training the GAN**
+#**Training the GAN**
 
 Open the provided Jupyter Notebook locally or upload it to Google Colab.
 
@@ -71,7 +71,7 @@ Train the GAN using adversarial loss
 GPU acceleration is recommended for faster training, especially on Colab.
 
 
-**Image Generation**
+#**Image Generation**
 
 After training is complete, use the trained Generator model to produce new images.
 
