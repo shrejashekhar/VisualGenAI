@@ -40,11 +40,6 @@ Explore creative patterns and variations through latent space manipulation.
 Usage**
 **Setup**
 
-Clone the repository to your local machine:
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
 
 Ensure the required dependencies are installed:
 
