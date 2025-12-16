@@ -1,8 +1,7 @@
 # VisualGenAI
 
 # **Overview**
-
-GenAI Image Generation using GANs is a Generative AI project focused on creating CIFAR-10–like images using Generative Adversarial Networks (GANs).
+VisualGenAI is a Generative AI project focused on creating CIFAR-10–like images using Generative Adversarial Networks (GANs).
 
 The project implements a custom GAN architecture consisting of a Generator and a Discriminator. These two neural networks compete with each other during training—the Generator learns to create realistic images, while the Discriminator learns to distinguish between real images and generated ones. Over time, this adversarial process results in the generation of visually meaningful and diverse images.
 
